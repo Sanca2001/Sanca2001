@@ -3,7 +3,7 @@
 Desarrollador Frontend con experiencia en la creación de interfaces modernas, accesibles y responsivas usando tecnologías como HTML, CSS, JavaScript y frameworks como React y Vue.js. Apasionado por la experiencia de usuario y la mejora continua.
 
 
-### 🛠 &nbsp;Tech Stack
+### Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
@@ -15,6 +15,8 @@ Desarrollador Frontend con experiencia en la creación de interfaces modernas, a
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+![React](https://img.shields.io/badge/-REACT-05122A?style=flat&logo=react&logoColor=4479A1)&nbsp;
+
 
 
 

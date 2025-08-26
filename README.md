@@ -5,6 +5,11 @@ Desarrollador Frontend con experiencia en la creación de interfaces modernas, a
 
 ### Tech Stack
 
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" width="100"/>
+<img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4" width="100"/>
+<img src="https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20" width="100"/>
+
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;

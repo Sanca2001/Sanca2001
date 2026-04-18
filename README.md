@@ -29,8 +29,11 @@ Soy Programador Informatico enfocado en la creación de soluciones web modernas 
 
 ## 🛠️ My Skills
 
-
-[![My Skills](https://skillicons.dev/icons?i=js,java,php,python)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,java,php,python,html,css,bootstrap,tailwind,react,astro,laravel,nodejs,mysql,sqlite,mongodb,git,github,figma,jquery" />
+  </a>
+</p>
 
 
 
